@@ -1,0 +1,23 @@
+body{
+    background-color: #290a52;
+    color: aliceblue;
+}
+
+.header{
+
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-size: 45px;
+    text-align: center;
+
+}
+
+.movie-shape{
+    
+    width: 300px;
+    height: 600px;
+    box-sizing:fit-content;
+}
+
+.container{
+    margin-top: 10px;
+    text-align: center;}
